@@ -1,0 +1,35 @@
+body {
+  margin: 0 auto;
+}
+div {
+  height: 200px;
+  width: 200px;
+  margin: 15px;
+  float: left;
+}
+.one {
+  background-color: #333;
+  border: 5px orangered;
+  border-style: dotted double solid groove;
+  border-color: greenyellow;
+}
+.two {
+  background-color: greenyellow;
+  /* border: 5px ridge orangered; */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+#three {
+  background-color: cyan;
+  border: 5px double orangered;
+}
+#inner {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  display: flex;
+  align-self: center;
+  border-radius: 50%;
+}

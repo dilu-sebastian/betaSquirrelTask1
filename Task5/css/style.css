@@ -102,3 +102,7 @@ td,
 th {
   padding: 15px;
 }
+.list-table th:first-child,
+td:first-child {
+  width: auto;
+}

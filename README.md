@@ -9,5 +9,9 @@ Beta squirrel Task one repo
 
 ## File Paths
 
-- [https://github.com/dilu-sebastian/betaSquirrelTask1/tree/main/Task5](https://github.com/dilu-sebastian/betaSquirrelTask1/tree/main/Task5): The main HTML file located in the Task5 directory.
+- [Task5/index.html](Task5/index.html): The main HTML file located in the Task5 directory.
+
+## GitHub Pages
+
+This project is published on GitHub Pages: [https://dilu-sebastian.github.io/betaSquirrelTask1/](https://dilu-sebastian.github.io/betaSquirrelTask1/)
 

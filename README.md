@@ -9,4 +9,5 @@ Beta squirrel Task one repo
 
 ## File Paths
 
-- `betaSquirrelGitTasks\betaSquirrelTask1\betaSquirrelTask1\Task5\index.html`: The main HTML file located in the Task5 directory.
+- [betaSquirrelGitTasks\betaSquirrelTask1\betaSquirrelTask1\Task5\index.html](betaSquirrelGitTasks/betaSquirrelTask1/betaSquirrelTask1/Task5/index.html): The main HTML file located in the Task5 directory.
+
